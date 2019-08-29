@@ -199,6 +199,12 @@
 .news-b ul{
   padding-top: 15px;
 }
+.hide{
+  display: none;
+}
+.show{
+  display: block;
+}
 .news-b ul li{
   line-height: 23px;
   color:rgb(102, 102, 102);
